@@ -1,5 +1,3 @@
-# bakery-sales-dashboard
-"Interactive Excel dashboard analyzing 20K+ bakery transactions"
 # 🥐 Bakery Sales Dashboard
 
 An interactive Excel dashboard analyzing 20,500+ point-of-sale transactions from a bakery, covering October 2016 to April 2017. Built entirely with pivot tables, pivot charts, and slicers — no macros, no external tools.
@@ -26,10 +24,10 @@ The raw dataset contained only transaction IDs, item names, and timestamps — n
 ## 📸 Screenshots
 
 ### Full Dashboard View
-![Dashboard Overview](screenshots/dashboard-overview.png)
+<img width="1328" height="528" alt="Dashboard view" src="https://github.com/user-attachments/assets/894b9f45-486f-44ae-9d00-93d1419ab1b0" />
 
-### Filtered by Weekday
-![Slicer Filtered View](screenshots/slicer-filtered-view.png)
+### Tables View
+<img width="1277" height="524" alt="Table view" src="https://github.com/user-attachments/assets/a98b1dc1-f389-4b8e-b0b1-bf228c876438" />
 
 ## 📁 Files
 
