@@ -1,4 +1,4 @@
-# 🥐 Bakery Sales Dashboard
+[bakery_sales_revised1 (Autosaved).xlsx](https://github.com/user-attachments/files/33102051/bakery_sales_revised1.Autosaved.xlsx)# 🥐 Bakery Sales Dashboard
 
 An interactive Excel dashboard analyzing 20,500+ point-of-sale transactions from a bakery, covering October 2016 to April 2017. Built entirely with pivot tables, pivot charts, and slicers — no macros, no external tools.
 
@@ -31,8 +31,8 @@ The raw dataset contained only transaction IDs, item names, and timestamps — n
 
 ## 📁 Files
 
-- `bakery_sales_dashboard.xlsx` — the full interactive dashboard
-- `screenshots/` — static previews of the dashboard in different filter states
+- `[Uploading bakery_sales_revised1 (Autosaved).xlsx…]` — the full interactive dashboard
+- `<img width="1357" height="534" alt="excel 1" src="https://github.com/user-attachments/assets/54ff0ca6-40e2-4339-8bc7-4f0e9f7c3f0f" />` — static previews of the dashboard in different filter states
 
 ## 💡 What This Project Demonstrates
 
